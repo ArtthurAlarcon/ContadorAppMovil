@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ContadorAppMovil.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="¡Bienvenidos todos a mi aplicación!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Contador de clicks en un botón" FontSize="Title" Padding="30,10,30,10"/>
+        <Label Text="Esta es una pequeña demostración de como funciona una aplicación de Xamarin en movil!" FontSize="16" Padding="30,0,30,0"/>
+
+
+        <Button Text="Pulsame 7u7" Clicked="Button_Clicked" />
+        <Button Text="Reiniciar contador" Clicked="Button_Reset"/>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\bin\Debug\netstandard2.0\ContadorAppMovil.deps.json
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\bin\Debug\netstandard2.0\ContadorAppMovil.dll
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\bin\Debug\netstandard2.0\ref\ContadorAppMovil.dll
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\bin\Debug\netstandard2.0\ContadorAppMovil.pdb
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\obj\Debug\netstandard2.0\ContadorAppMovil.csproj.AssemblyReference.cache
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\obj\Debug\netstandard2.0\ContadorAppMovil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\obj\Debug\netstandard2.0\ContadorAppMovil.AssemblyInfoInputs.cache
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\obj\Debug\netstandard2.0\ContadorAppMovil.AssemblyInfo.cs
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\obj\Debug\netstandard2.0\ContadorAppMovil.csproj.CoreCompileInputs.cache
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\obj\Debug\netstandard2.0\ContadorAppMovil.dll
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\obj\Debug\netstandard2.0\ref\ContadorAppMovil.dll
+C:\Users\arttu\source\repos\ContadorAppMovil\ContadorAppMovil\ContadorAppMovil\obj\Debug\netstandard2.0\ContadorAppMovil.pdb

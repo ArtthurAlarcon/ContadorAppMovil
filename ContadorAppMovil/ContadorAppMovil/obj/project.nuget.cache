@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bH6OnVrRfRxFuuwNPr8WSrqMDN7lsjfLI0dHxCQ/KFsZsnZPSA7Q+4xhGmfg2iFyMWHo7a9PRyQJ0ho6IL7Upw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arttu\\source\\repos\\ContadorAppMovil\\ContadorAppMovil\\ContadorAppMovil\\ContadorAppMovil.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arttu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\arttu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\arttu\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
